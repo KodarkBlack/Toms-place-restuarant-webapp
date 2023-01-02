@@ -1,0 +1,494 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@700&family=Ubuntu:ital,wght@0,400;0,700;1,300&display=swap');
+
+.navbar-brand {
+    position: absolute;
+    width: 20px;
+    height: 30px 20px;
+    margin-top: -365px;
+    size: 10%;
+    margin-left: 2.09%;
+    font-family: 'Cairo';
+    font-style: normal;
+    font-size: 28px;
+    font-weight: 700;
+    align-items: center;
+}
+
+
+.thisgivemesomekindofcrap {
+    padding: 10%;
+}
+
+.nav-link {
+    width: 62px;
+    height: 22px;
+    margin-top: 100px;
+    transform: rotate(-90deg);
+}
+
+
+.omoidontknowwhatiswrongwithme {
+    margin-left: 7%;
+    margin-top: -35%;
+    
+}
+
+.thisistheresldeal {
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 16px;
+gap: 16px;
+
+width: 237px;
+height: 59px;
+
+/* Other/1 */
+
+background: #FFFBF7;
+/* Hero shadow */
+
+box-shadow: 5px 5px 20px rgba(205, 183, 167, 0.3);
+border-radius: 12px;
+margin-left: 40%;
+
+}
+
+.illmakethiswork {
+    display: flex;
+    margin-left: 10%;
+    margin-top: -56%;
+}
+
+.smallsmallnalife {
+    width: 30%;
+}
+
+.happynewyear {
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+width: 60px;
+height: 60px;
+
+/* Primary/7 */
+
+background: #736557;
+border-radius: 30px;
+margin-left: 5%;
+
+}
+
+.happynewyear2023 {
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+width: 60px;
+height: 60px;
+
+/* Primary/7 */
+
+background: #736557;
+border-radius: 30px;
+margin-left: 2%;
+}
+
+.nowicangotobed {
+    font-family: 'Cairo';
+    font-style: normal;
+    font-weight: 700;
+    /* font-size: 32px; */
+    width: 312px;
+    height: 38px;
+    color: #736557;
+    line-height: 120%;
+}
+
+.thisgettingsimpler {
+    margin-left: 20%;
+    width: 934px;
+    margin-top: 5%;
+height: 58px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 120%;
+/* identical to box height, or 58px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Primary/7 */
+
+color: #736557;
+}
+
+.thsiosisisi {
+    display: flex;
+}
+
+.fuckthislevelmann {
+    width: 85%;
+    position: absolute;
+    margin-left: -1%;
+width: 1250px;
+height: 188px;
+left: 118px;
+top: 344px;
+
+background: #FFFFFF;
+/* Hero shadow */
+
+box-shadow: 5px 5px 20px rgba(205, 183, 167, 0.3);
+
+}
+
+.alwayscallingclass {
+    display: flex;
+}
+
+.lostflies {
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px;
+gap: 8px;
+
+position: absolute;
+width: 193px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+/* Secondary/7 */
+
+border: 1.5px solid #C3A995;
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 12px;
+}
+
+.soups {
+    width: 58px;
+height: 22px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Primary/7 */
+
+color: #736557;
+
+}
+
+.cantusethesameclas {
+    width: 184px;
+height: 22px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Primary/7 */
+
+color: #736557;
+
+}
+
+.sidessnacks {
+    width: 137px;
+height: 22px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Primary/7 */
+
+color: #736557;
+}
+
+.fishbeef {
+    width: 102px;
+height: 22px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Primary/7 */
+
+color: #736557;
+
+}
+
+.liqour {
+    width: 77px;
+height: 22px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Primary/7 */
+
+color: #736557;
+}
+.rice {
+    width: 39px;
+height: 22px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Primary/7 */
+
+color: #736557;
+}
+
+.swallow {
+    width: 88px;
+height: 22px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Primary/7 */
+
+color: #736557;
+margin-left: 8%;
+margin-top: 8%;
+
+}
+
+.drugaddiction {
+    width: 164px;
+    height: 48px;
+    margin-left: 20%;
+    margin-top: -2%;
+    font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Primary/7 */
+
+color: #736557;
+}
+
+.beinvolve {
+    margin-left: 7%;
+
+    
+}
+
+.modupeomo {
+    display: flex;
+    margin-left: 30%;
+}
+
+.thissectionthenofftobed {
+    display: flex;
+    margin-top: 25%;
+    margin-left: 45%;
+}
+
+.thissectionthenofftobedgo {
+    display: flex;
+    margin-top: 25%;
+    margin-left: 38.2%;
+}
+
+.ineedsomepussy {
+    margin-top: 1%;
+    padding: auto;
+}
+
+.callmewhenyouneedsomesexy {
+    /* width: 20%; */
+    margin-left: 10%;
+    width: 300px;
+    height: 350px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 8px 3.2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    border: none;
+}
+
+.omoopewofendi {
+    display: flex;
+    margin-bottom: 5%;
+}
+
+.dominiospizza {
+   background: #FFFFFF;
+   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), -10px -10px 20px rgba(243, 243, 243, 0.5);
+   border-radius: 100%;
+   width: 70%;
+   align-items: center;
+   margin-left: 16%;
+}
+
+.blackisrael {
+    background-color: #736557;
+    border-radius: 100%;
+    margin-left: 35%;
+    margin-bottom: 2%;
+    /* position: inherit; */
+}
+
+.badhustlers {
+    display: flex;
+}
+
+.burnaoluwa {
+    margin-left: 33%;
+    margin-top: -15%;
+}
+
+.lifenaturnbyturn {
+    width: 5%;
+}
+
+
+.footer-color {
+    background-color: #736557;
+    position: relative;
+    width: 1380px;
+    height: 423px;
+}
+
+.thisgivemesomekindofcrap {
+    padding: 10%;
+}
+
+.foot-row {
+    color: #ffff;
+    margin: auto;
+    margin-right: 70%;
+    margin-bottom: none;
+}
+
+.foot-col {
+    display: flex;
+    margin-left: 10%;
+    margin-bottom: -20%;
+}
+
+.itismygeebirthday {
+    width: 500px;
+    height: 50px;
+    font-family: 'Cairo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 120%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFEDD8;
+}
+
+
+.thismotherfuckerbemovingcrazy {
+    width: 73px;
+    height: 36px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 150%;
+/* identical to box height, or 36px */
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+
+.helpidonkillam {
+    background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), -10px -10px 20px rgba(243, 243, 243, 0.5);
+/* position: absolute; */
+width: 250px;
+height: 250px;
+border-radius: 100%;
+margin-left: 9%;
+}
+
+.casala {
+    margin-top: -5%;
+}
+
+.casalanla {
+    margin-top: -20%;
+}
+

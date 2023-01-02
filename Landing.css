@@ -1,0 +1,749 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@700&family=Ubuntu:ital,wght@0,400;0,700;1,300&display=swap');
+
+
+  .navbar-brand {
+    position: absolute;
+    width: 20px;
+    height: 30px 20px;
+    margin-top: -365px;
+    size: 10%;
+    margin-left: 2.09%;
+    font-family: 'Cairo';
+    font-style: normal;
+    font-size: 28px;
+    font-weight: 700;
+    align-items: center;
+}
+
+
+.thisgivemesomekindofcrap {
+    padding: 10%;
+}
+
+.footer-item {
+    list-style: none;
+}
+
+.itismygeebirthday {
+    width: 500px;
+    height: 50px;
+    font-family: 'Cairo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 120%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFEDD8;
+}
+
+
+
+
+.foot-row {
+    color: #ffff;
+    margin: auto;
+    margin-right: 70%;
+    margin-bottom: none;
+}
+
+.foot-col {
+    display: flex;
+    margin-left: 20%;
+    margin-bottom: -20%;
+}
+
+.thismotherfuckerbemovingcrazygo {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    display: flex;
+    color: #FFFFFF;
+}
+
+.thismotherfuckerbemovingcrazy {
+    /* width: 73px;
+    height: 36px; */
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    /* font-size: 24px; */
+    /* line-height: 150%; */
+/* identical to box height, or 36px */
+    display: flex;
+    /* align-items: center; */
+    color: #FFFFFF;
+}
+
+.happybirthdaybrolonglifeandprosperity {
+    width: 20px;
+}
+
+.footer-color {
+    background-color: #736557;
+    position: relative;
+    width: 1380px;
+    height: 423px;
+}
+
+.navbar-brand {
+    position: absolute;
+    width: 20px;
+    height: 30px 20px;
+    margin-top: -365px;
+    size: 10%;
+    margin-left: 2.09%;
+}
+
+
+    
+.okthenicestthingtodoismakemoney {
+    width: 668px;
+    height: 150px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 150%;
+   /* or 75px */
+    display: flex;
+    align-items: center;
+    color: #736557;
+}
+
+.dontgiveafuckortwo {
+   width: 670.25px;
+   height: 36px;
+   font-family: 'Ubuntu';
+   font-style: italic;
+   font-weight: 300;
+   font-size: 17px;
+   line-height: 150%;
+/* identical to box height, or 36px */
+   display: flex;
+   align-items: center;
+   color: #000000;
+   transform: rotate(0.09deg);
+   margin-top: -10%;
+}
+
+.thekindthehelpsisakindthatusesometimes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    -webkit-text-fill-color: #FFFFFF;
+    padding: 10px 12px;
+    gap: 10px;
+    width: 130px;
+    height: 40px;
+/* Primary/7 */
+    background: #736557;
+    box-shadow: 0px 2px 8px rgba(128, 128, 128, 0.7);
+    backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+    border-radius: 12px;
+    border-color: none;
+    border: none;
+}
+
+.head-img {
+    width: 100%;
+    margin-top: -12%;
+    margin-left: 23%;
+}
+
+.head-imghdhshshsh {
+    width: 105%;
+    margin-top: -105%;
+    margin-left: 18%;
+    /* margin-right: 30%; */
+}
+
+
+.hssgsgsghshgkvuaywleigw {
+    margin-top: -33.20%;
+    margin-left: 15%;
+}
+.fytfyfykyryryu {
+   width: 600px;
+   height: 600px;
+   margin-left: -10%;
+
+/* Secondary/6 */
+
+   background: #C3A995;
+   border-radius: 40px;
+}
+
+.head-btngdhds {
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center; */
+    padding: 10px 12px;
+    gap: 10px;
+    position: absolute;
+    width: 155px;
+    height: 40px;
+/* left: 1154px; */
+    top: 30%;
+    left: 70%;
+    border-radius: 12px;
+    border-color: none;
+    border: none;
+    box-shadow: 0px 2px 8px rgba(128, 128, 128, 0.7);
+/* background: #FFFFFF; */
+}
+.nav-link {
+    width: 62px;
+    height: 22px;
+    margin-top: 100px;
+    transform: rotate(-90deg);
+}
+
+.thefirstjudgement {
+    position: flex;
+}
+
+.hbfgyeuafk {
+    width: 328px;
+    height: 38px;
+    font-family: 'Cairo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 120%;
+/* or 38px */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #736557;
+}
+
+.para-itemmn {
+    width: 448px;
+    height: 124px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 130%;
+/* or 62px */
+    display: flex;
+    align-items: center;
+/* Primary/7 */
+    color: #736557;
+
+}
+
+.para-itemvhgh {
+    width: 403px;
+    height: 22px;
+    font-family: 'Ubuntu';
+    font-style: italic;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 120%;
+    margin-top: -2%;
+/* identical to box height, or 22px */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #0D0D0C;
+}
+
+.vgfjhgudhdj {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    width: 400px;
+    height: 50px;
+    background: #FFFFFF;
+    margin: 2px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.whatagosh {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    width: 400px;
+    height: 50px;
+    background: #FFFFFF;
+    margin: 2px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+
+}
+
+.thewonderwayofart {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    width: 400px;
+    height: 50px;
+    background: #FFFFFF;
+    margin: 2px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.agend {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    position: relative;
+    width: 512px;
+    height: 652px;
+}
+
+
+.gfdftdjytjdtgfyt6 {
+    width: 213px;
+    height: 58px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 120%;
+/* identical to box height, or 58px */
+
+    display: flex;
+    align-items: center;
+    color: #000000;
+/* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin-left: 35%;
+    margin-top: 5%;
+}
+
+.anamazingthingtosee {
+    margin-top: -30%;
+    width: fit-content;
+    margin-left: 20%;
+}
+
+.ohmygoshgibehim {
+    margin-top: -90%;
+    width: 80%;
+    animation: slide-in-blurred-right 1s linear 0.2s 1 normal none;
+
+}
+
+@keyframes slide-in-blurred-right {
+			
+    0% {
+        transform:translateX(1000px) scaleX(2.5) scaleY(.2);
+        transform-origin:0% 50%;
+        filter:blur(40px);
+        opacity:0;
+    }
+    100% {
+        transform:translateX(0) scaleY(1) scaleX(1);
+        transform-origin:50% 50%;
+        filter:blur(0);
+        opacity:1;
+    }
+}
+
+/* @keyframes ohmygoshgibehim {
+    animation: animate__rotateOutUpRight 3s timing-function delay iteration-count direction fill-mode;
+} */
+
+.okwhatisyourfav {
+    margin-top: -60%;
+    width: 70%;
+    margin-left: 53%;
+    animation: slide-in-blurred-right 1s linear 0.2s 1 normal none;
+}
+
+@keyframes slide-in-blurred-right {
+			
+    0% {
+        transform:translateX(1000px) scaleX(2.5) scaleY(.2);
+        transform-origin:0% 50%;
+        filter:blur(40px);
+        opacity:0;
+    }
+    100% {
+        transform:translateX(0) scaleY(1) scaleX(1);
+        transform-origin:50% 50%;
+        filter:blur(0);
+        opacity:1;
+    }
+}
+
+.godlovehisown {
+    margin-left: 20%;
+}
+
+.thereeouldbeawowattheend {
+    width: 70%;
+    margin-left: 134%;
+}
+
+.funnyenoughillsmile {
+    width: 75%;
+    margin-top: -66%;
+    margin-left: 130%;
+}
+
+.givethebesttothebest {
+    width: 60%;
+    margin-top: -80%;
+    margin-left: 116%;
+}
+
+.footer-links {
+    width: 73px;
+    height: 36px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+/* line-height: 150%; */
+/* identical to box height, or 36px */
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.hfhfhfksjdhdfshdjsdjdbsj {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    width: 40px;
+    height: 24px;
+    background: #000000;
+    /* border-radius: 30px; */
+}
+
+.thinkthimhgs {
+    display: flex;
+    margin-left: 45%;
+    margin-top: 2%;
+}
+
+.beentogetherfeelsbetter {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    width: 24px;
+height: 24px;
+
+background: #000000;
+border-radius: 30px;
+
+}
+
+.ihopeigetallmygoodexpectation {
+    width: 10%;
+}
+
+.iwanttomakeitflex {
+    display: flex;
+    margin-left: 5%;
+}
+
+.wonderland {
+    background: #736557;
+    margin-left: 80%;
+    border-radius: 50%;
+    padding: 5%;
+    margin-bottom: 65%;
+}
+
+.lovelovelovepele {
+    width: 52px;
+height: 29px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+opacity: 0.7;
+}
+
+.catanddoggoat {
+    width: 52px;
+height: 29px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+opacity: 0.7;
+
+}
+
+.discovermorebrr {
+    width: 142px;
+height: 34px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 120%;
+/* identical to box height, or 34px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+}
+
+.voomoom {
+    display: flex;
+    margin-top: 30%;
+}
+
+.stopfuckingwithme {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 20px;
+    gap: 10px;
+    width: 400px;
+    height: 200px;
+    margin-left: 10%;
+    margin-bottom: 3%;
+
+/* Other/4 */
+
+    background: #FFF3E5;
+/* Hero shadow */
+
+    box-shadow: 5px 5px 20px rgba(205, 183, 167, 0.3);
+    border-radius: 20px;
+}
+
+.thankgodigotthisonenow {
+    margin-left: 30%;
+}
+
+
+.evertoughtofhertwiceadanahnotpossible {
+    /* display: flex; */
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+    gap: 10px;
+    width: 30%;
+    height: 20%;
+    margin-bottom: 10%;
+/* Other/4 */
+    background: #FFF3E5;
+/* Hero shadow */
+    box-shadow: 5px 5px 20px rgba(205, 183, 167, 0.3);
+    border-radius: 20px;
+    display: flex;
+}
+
+
+
+/* .verymuchthingsbutlittletime {
+    width: 10%;
+} */
+
+.fuckingclassing {
+    width: 100px;
+}
+
+.ogaoohungerdey {
+    width: 611px;
+    margin-left: 30%;
+    height: 36px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+/* identical to box height, or 36px */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.positionjustmatter {
+    width: 458px;
+    height: 63px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 150%;
+/* or 36px */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.somethingcompletelydifferent {
+    width: 58px;
+height: 22px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+}
+
+.rippele {
+    background: #FFFFFF;
+    width: 10%;
+    border-radius: 100%;
+    margin-left: 42%;
+    margin-top: 5%;
+
+}
+
+.noneofmyteamisgoingtolack {
+    width: 343px;
+    margin-left: 12%;
+height: 75px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 150%;
+/* identical to box height, or 75px */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+}
+
+.transendace {
+    display: flex;
+    margin-left: 30%;
+    margin-bottom: 5%;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+    gap: 10px;
+    width: 518px;
+    height: 193px;
+/* Primary/7 */
+    background: #736557;
+    box-shadow: 0px 4px 4px #CDB7A7;
+    border-radius: 20px;
+}
+
+.whatafuckingstressfulday {
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 40px;
+height: 40px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+}
+
+
+/* .modal {
+    width: 100px;
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10.7236px;
+    margin: 48px 192px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16rem;
+}
+
+.head-1 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 30px;
+    color: #0E0E0E;
+    margin-left: 48px;
+    margin-top: 32px;
+}
+
+.subhead {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 45px;
+    color: #000000;
+    margin-left: 48px;
+    margin-top: -16px;
+}
+
+.head-btn {
+    background: #000000;
+    border-radius: 40px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #FFFFFF;
+    padding: 8px 24px;
+} */
+
+
+/* .thisfeelslikeyou {
+    background-color: #FFFBF7;
+    margin-top: -10%;
+} */
