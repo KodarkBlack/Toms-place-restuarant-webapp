@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@700&family=Ubuntu:ital,wght@0,400;0,700;1,300&display=swap');
+
+
+.isheolorunoba {
+    font-family: 'Cairo';
+    font-style: normal; 
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 120%;
+    color: #736557;
+}
+
+.solapewhatdoyouaddinyourstew {
+    display: flex;
+    margin-left: 7%;
+    margin-top: 4%;
+}
+
+.withthewinninggoal {
+    background: #736557;
+    margin-left: 30%;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+
+}
+
+.playdeycausesomething {
+    width: 40%;
+    margin-left: 7%;
+}
+
+.makewenolie {
+    margin-top: 7%;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300; 
+    font-size: 28px;
+    line-height: 120%;
+}
+
+.nothingwarrantam {
+    margin-left: 30%;
+}
+
+.theuserpartthings {
+    margin-left: 7%;
+    display: flex;
+}
+
+.ijuststartedworksince {
+    display: flex;
+}
+
+.form-control {
+    margin-top: 5%;
+    width: 416px;
+}
+
+.textareaform{
+    width: 416px;
+    height: 220px;
+    margin-top: 5%;
+}
+
+.thetimefactor {
+    box-shadow: 5px 5px 20px rgba(205, 183, 167, 0.3);
+    border-radius: 12px;
+    width: 237px;
+    height: 50px;
+    background: #FFFBF7;
+    border: none;
+}
+
+.contactpng {
+    width: 500px;
+    height: 400px;
+    margin-left: 5%;
+}

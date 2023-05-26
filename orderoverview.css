@@ -1,0 +1,308 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@700&family=Ubuntu:ital,wght@0,400;0,700;1,300&display=swap');
+
+.changebgcolor {
+    background-color: #FFFFFF;
+}
+
+.abiwereydeydis {
+    border-radius: 4px;
+}
+
+.abiwereydeydis:hover {
+    background: #EBE2DC;
+}
+
+.accountover {
+    width: 204px; 
+    height: 29px;
+    margin-left: 10%;
+    margin-top: 2%;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 120%;
+/* identical to box height, or 29px */
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+
+.accountover:hover {
+    font-size: 20px;
+}
+
+.allrightresersed {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 24px */
+    color: #000000;
+}
+
+.mrolufisayoyouwillmakeit {
+    display: flex;
+    position: absolute;
+    width: 1120px;
+    height: 650px;
+    margin-left: 10%;
+    background: #FBF7F3;
+}
+
+.workcollectmoneygetrich {
+    margin-left: 3%;
+    background: #736557;
+    border-radius: 40px;
+    height: 40%;
+    margin-top: 10%;
+}
+
+.ijustkeepcallingclass {
+    /* position: absolute; */
+    width: 35%;
+    height: 200px;
+    left: 15%;
+    top: 3%;
+    opacity: 0.2;
+    border-radius: 10px;
+
+}
+
+.dingdingpa {
+    margin-left: 10%;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    margin-top: 2%;
+}
+
+
+.youthinkyouregoingtostressme {
+    height: 85%;
+    margin-top: 15%;
+    margin-bottom: 3%;
+    margin-left: 45%;
+} 
+
+.thinkaboutthisandfindconfort {
+    width: 30%;
+    height: 30%;
+    margin-left: 10%;
+    margin-top: 1%;
+    margin-bottom: 5%;
+}
+
+.followbody {
+    width: 29px;
+height: 29px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+.youngboybetter {
+    position: absolute;
+    width: 500px;
+    height: 100px;
+    top: 66px;
+    background: #FFFFFF;
+/* Hero shadow */
+    box-shadow: 5px 5px 20px rgba(205, 183, 167, 0.3);
+    border-radius: 4px;
+    margin-left: 45%;
+}
+
+.thispartimg {
+    width: 10%;
+    height: 50%;
+    margin-left: 40%;
+    margin-top: -3%;
+}
+
+.yesimtryingtogetcomfy {
+    width: 563px;
+    height: 36px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+/* identical to box height, or 36px */
+    display: flex;
+    margin-left: 10%;
+    align-items: center;
+    color: #000000;
+}
+
+.makeweloveall {
+    background: #736557;
+    border-radius: 50px;
+    margin-left: 7%;
+    margin-top: 3%;
+    width: 10%;
+    height: 40%;
+
+}
+
+.ilovemyfamily {
+    width: 175px;
+    height: 43px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+/* or 43px */
+    display: flex;
+    align-items: center;
+    color: #000000;
+    margin-left: 18%;
+    margin-top: 3%;
+}
+
+.casablanca {
+    width: 35%;
+    margin-left: 15%;
+    z-index: 1;
+    margin-top: -18%;
+}
+
+.thispartbtn {
+    -webkit-text-fill-color: #FFFFFF;
+    text-align: center;
+    padding: 12px;
+    margin-left: 20%;
+    gap: 10px;
+    width: 300px;
+    height: 48px;
+    background: #736557;
+    box-shadow: 0px 2px 8px rgba(128, 128, 128, 0.7);
+    backdrop-filter: blur(2px);
+    border-radius: 12px;
+    border: none;
+}
+
+.thispartbtn:hover {
+    background: #EBE2DC;
+    -webkit-text-fill-color: #000000;
+}
+
+.youngboybetternba {
+    position: absolute;
+width: 500px;
+height: 180px;
+left: 45%;
+top: 173px;
+
+background: #FFFFFF;
+border-radius: 4px;
+}
+
+.dingdingfuckshine {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 120%;
+/* identical to box height, or 29px */
+    display: flex;
+    margin-left: 10%;
+    align-items: center;
+    color: #000000;
+}
+
+.dingdingmadman {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 120%;
+/* identical to box height, or 29px */
+    display: flex;
+    align-items: center;
+    color: #000000;
+    margin-left: 10%;
+}
+
+.olufisayoisrael {
+     width: 218px;
+    height: 38px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 120%;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+
+.welcometoyouracct {
+    width: 15%;
+    margin-bottom: 5%;
+}
+
+.tryamifeeasy {
+    border-radius: 5px;
+}
+
+.tryamifeeasy:hover {
+    background:  #EBE2DC;
+}
+
+
+.unpocoloco {
+    width: 334px;
+    height: 100px;
+    background: #FFFFFF;
+/* Hero shadow */
+    box-shadow: 5px 5px 20px rgba(205, 183, 167, 0.3);
+    border-radius: 4px;
+
+}
+
+.dingding {
+    width: 146px;
+    margin-left: 10%;
+    margin-top: 2%;
+/* height: 29px; */
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 29px */
+/* display: flex; */
+align-items: center;
+color: #000000;
+}
+
+.dingding:hover {
+    font-size: 20px;
+}
+
+
+.pagefooter {
+    margin-top: 53%;
+    margin-left: -5%;
+}
+
+.ithankmycreator {
+    display: flex;
+}
+.giveyougoodlove {
+    width: 7%;
+    margin-left: 3%;
+}

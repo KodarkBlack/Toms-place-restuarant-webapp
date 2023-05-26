@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@700&family=Ubuntu:ital,wght@0,400;0,700;1,300&display=swap');
+
+.sidegigonsidestreet {
+    margin-left: 20%;
+    display: flex;
+}
+
+.daneilbenson {
+    width: 25%;
+}
+
+.imbackbitches {
+    margin-top: 20%;
+    margin-left: 5%;
+}
+
+
+.companylogo {
+    width: 5%;
+    height: 3%;
+    margin-top: 2%;
+}
+
+.traintogainmore {
+    width: 450px;
+    height: 43px;
+    margin-top: 6%;
+/* Secondary/1 */
+    background: #F3EEEA;
+    border-radius: 8px;
+}
+
+.lomgmatter {
+    margin-left: 20%;
+}
+
+.card-content {
+    display: flex;
+    margin-left: 5%;
+}
+
+.admincard {
+    margin-top: 2%;
+    width: 20%;
+    height: 700px;
+    background: #C3A995;
+    border-radius: 4px;
+}
+
+.anditisagoal {
+    display: flex;
+}
+
+.anditisagoal {
+    margin-left: 25%;
+}
+
+.adminline {
+    margin-top: 50%;
+    border: none;
+    background: #C3A995;
+}
+
+.adminlines:hover {
+    background: #FFFFFF;
+}
+
+.adminline:hover {
+    background: #FFFFFF;
+}
+
+.adminlines {
+    border: none;
+    margin-top: 10%;
+    background: #C3A995;
+}
+
+.todaystat {
+    margin-top: 7%;
+    margin-left: 20%;
+    width: 400px;
+    height: 150px;
+    background: #C3A995;
+    box-shadow: 0px 10px 25px rgba(13, 13, 13, 0.2);
+    border-radius: 10px
+}
+
+.whereeverythingstarted {
+    display: flex;
+}
+
+.cardstat {
+    margin: auto;
+}
+
+
+.bemorethanhumble {
+    margin-left: 3%;
+    display: flex;
+}
+
+.makeitabetterplace {
+    display: flex;
+    margin-left: 5%;
+    gap: 13%;
+}
+
+.makeitabetterplace p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
+    -webkit-text-fill-color: #736557;
+    
+}
+
+.makeitabetterplace p:hover {
+    -webkit-text-fill-color: #FFFFFF;
+}
+
+.makeichoplifeonalow h3 {
+    margin-left: 50%;
+    margin-top: 5%;
+}
+
+.comingcloser {
+    margin: 3%;
+    display: flex;
+    margin-top: 1%;
+}
+
+.movetotheleft {
+    margin-left: 3%;
+}
+
+.anditisagoal img {
+    width: 9%;
+}
+
+.dingding {
+    margin-left: 5%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+}
+
+.everydaymadeoutoflove {
+    margin-left: 13%;
+    width: 103%;
+    background: #FBF7F3;
+    border-radius: 10px;
+}
+
+.everydaymadeoutoflove:hover {
+    background: #8A7968;
+}
+
+.bgred {
+    color: rgb(182, 17, 17);
+}
+

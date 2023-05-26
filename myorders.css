@@ -1,0 +1,492 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@700&family=Ubuntu:ital,wght@0,400;0,700;1,300&display=swap');
+
+.changebgcolor {
+    background-color: #ffffff;
+}
+
+.abiwereydeydis {
+    border-radius: 4px;
+    height: 13%;
+    border: none;
+}
+
+.abiwereydeydis:hover {
+    background: #EBE2DC;
+}
+
+
+
+.anditisagoal {
+    display: flex;
+    margin-left: 3%;
+}
+
+.anditisagoal img {
+    width: 7%;
+}
+
+.anditisagoal h5 {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.accountover {
+    width: 204px; 
+    height: 29px;
+    margin-left: 10%;
+    margin-top: 2%;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+/* identical to box height, or 29px */
+    display: flex;
+    align-items: center;
+    color: #000000;
+
+
+}
+
+.allrightresersed {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 24px */
+    color: #000000;
+}
+
+.mrolufisayoyouwillmakeit {
+    display: flex;
+    position: absolute;
+    width: 1120px;
+    height: 1180px;
+    margin-left: 10%;
+    background: #FBF7F3;
+}
+
+.workcollectmoneygetrich {
+    margin-left: 3%;
+    background: #736557;
+    border-radius: 40px;
+    height: 40%;
+    margin-top: 10%;
+}
+
+.ijustkeepcallingclass {
+    /* position: absolute; */
+    width: 35%;
+    height: 200px;
+    left: 15%;
+    top: 3%;
+    opacity: 0.2;
+    border-radius: 10px;
+
+}
+
+.dingdingpa {
+    margin-left: 10%;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    margin-top: 2%;
+}
+
+
+.youthinkyouregoingtostressme {
+    height: 85%;
+    margin-top: 15%;
+    margin-bottom: 3%;
+    margin-left: 45%;
+} 
+
+.thinkaboutthisandfindconfort {
+    width: 30%;
+    height: 30%;
+    margin-left: 10%;
+    margin-top: 1%;
+    margin-bottom: 5%;
+}
+
+.followbody {
+    width: 29px;
+height: 29px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+.youngboybetter {
+    position: absolute;
+    width: 530px;
+    height: 100px;
+    top: 66px;
+    background: #FFFFFF;
+/* Hero shadow */
+    box-shadow: 5px 5px 20px rgba(205, 183, 167, 0.3);
+    border-radius: 4px;
+    margin-left: 45%;
+}
+
+.lookslikeindexwouldworkhere {
+    z-index: 1%;
+    width: 32%;
+    margin-left: 70%;
+    margin-top: -20%;
+}
+
+.thispartimg {
+    width: 10%;
+    height: 50%;
+    margin-left: 40%;
+    margin-top: -3%;
+}
+
+.yesimtryingtogetcomfy {
+    width: 563px;
+    height: 36px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+/* identical to box height, or 36px */
+    display: flex;
+    margin-left: 10%;
+    align-items: center;
+    color: #000000;
+}
+
+.makeweloveall {
+    background: #736557;
+    border-radius: 100px;
+    margin-left: 7%;
+    width: 10%;
+    height: 100%;
+
+}
+
+.ilovemyfamily {
+    width: 175px;
+    height: 43px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 120%;
+/* or 43px */
+    display: flex;
+    align-items: center;
+    color: #000000;
+    margin-left: 20%;
+}
+
+.thispartbtn {
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center; */
+    -webkit-text-fill-color: #FFFFFF;
+    padding: 12px;
+    margin-left: 20%;
+    gap: 10px;
+    width: 300px;
+    height: 48px;
+/* Primary/7 */
+    background: #736557;
+    box-shadow: 0px 2px 8px rgba(128, 128, 128, 0.7);
+    backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+    border-radius: 12px;
+    border: none;
+}
+
+.youngboybetternba {
+    position: absolute;
+    width: 530px;
+    height: 900px;
+    left: 45%;
+    top: 173px;
+    background: #FFFFFF;
+    border-radius: 4px;
+}
+
+
+.container-place {
+    background: #FBF7F3;
+/* Secondary/4 */
+    border: 1px solid #D7C6B8;
+    width: 500px;
+    height: 270px;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.whatareyouthinking {
+    display: flex;
+    margin-left: 3.5%;
+    margin-top: 3%;
+}
+
+.whatisyourname {
+    margin-left: 75%;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 120%;
+    color: #000000;
+    opacity: 0.4;
+
+}
+
+.whatisyournameokitisisrael {
+    font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 120%;
+/* identical to box height, or 18px */
+
+display: flex;
+align-items: center;
+
+color: #2A5631;
+}
+
+.whatisyournameokitisisraeltomide {
+    font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 120%;
+/* identical to box height, or 18px */
+
+display: flex;
+align-items: center;
+
+color: #FE001E;
+}
+
+.whatisyournameokitisisraelibukun {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 120%;
+/* identical to box height, or 18px */
+    display: flex;
+    align-items: center;
+    color: #589762;
+}
+
+.callingthelineclass {
+    width: 100%;
+    margin-top: -10%;
+}
+
+.gbasgbosges {
+    margin-top: -5%;
+    margin-left: 3.5%;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 120%;
+}
+
+.natheingredientsbethis {
+    margin-top: -9%;
+    margin-left: 3%;
+}
+
+
+.thefoodboys {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 120%;
+    color: #000000;
+}
+
+.thetatebrothers {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 120%;
+    color: #000000;
+    margin-left: 67%;
+}
+
+.shestillcomegetbodylikechioma {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    margin-left: 74%;
+    margin-top: -5%;
+}
+
+
+.irestmycase {
+    display: flex;
+    margin-left: 3%;
+    gap: 3%;
+}
+
+.nowthisshithasntgottentooreal {
+    color: #000000;
+    opacity: 0.5;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+}
+
+.thefuckyousayingcux {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+}
+
+.takeyourtimewithmebaby {
+    margin-left: 18.5%;
+}
+
+.yeahillpayillhavetopay {
+    background: #FBF7F3;
+    border: 2px solid #D7C6B8;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    border-radius: 35%;
+    -webkit-text-fill-color: #736557;;
+}
+
+.yeahillpayillhavetopaynow {
+    background: #FE001E;
+    border-radius: 12px;
+    -webkit-text-fill-color: #FFFFFF;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    border: none;
+}
+
+
+.dingdingfuckshine {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 120%;
+/* identical to box height, or 29px */
+    display: flex;
+    margin-left: 10%;
+    align-items: center;
+    color: #000000;
+}
+
+.namegofinishyourfather {
+    background: #EBE2DC;
+}
+
+.dingdingmadman {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 120%;
+/* identical to box height, or 29px */
+    display: flex;
+    align-items: center;
+    color: #000000;
+    margin-left: 7%;
+}
+
+.olufisayoisrael {
+    width: 218px;
+    height: 38px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 120%;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+
+.welcometoyouracct {
+    width: 15%;
+    margin-bottom: 5%;
+}
+
+.tryamifeeasy {
+
+background: #FFFFFF;
+border-radius: 5px;
+}
+
+.unpocoloco {
+    width: 335px;
+    height: 100px;
+    background: #FFFFFF;
+/* Hero shadow */
+
+    box-shadow: 5px 5px 20px rgba(205, 183, 167, 0.3);
+    border-radius: 4px;
+
+}
+
+.dingding {
+    width: 146px;
+    margin-left: 10%;
+    margin-top: 4%;
+/* height: 29px; */
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 120%;
+/* identical to box height, or 29px */
+/* display: flex; */
+align-items: center;
+color: #000000;
+}
+
+
+.pagefooter {
+    margin-top: 100%;
+    margin-left: -10%;
+}
+
+.everydaymadeoutoflove {
+    height: 14%;
+    border: none;
+}
+
+.everydaymadeoutoflove:hover {
+    background: #EBE2DC;
+}
+

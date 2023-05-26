@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@700&family=Ubuntu:ital,wght@0,400;0,700;1,300&display=swap');
+
+.changebgcolor {
+    background-color: #ffffff;
+}
+
+.abiwereydeydis {
+    border-radius: 4px;
+}
+
+.accountover {
+    width: 204px; 
+    height: 29px;
+    margin-left: 6%;
+    margin-top: 2%;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 120%;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    border: none;
+}
+
+.abiwereydeydis:hover {
+    background:  #EBE2DC;
+}
+
+.tryamifeeasy:hover {
+    background: #EBE2DC;
+}
+
+.makebodytouchbody:hover {
+    background: #EDE2DC;
+}
+
+.accountover:hover {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.dingding:hover {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.dingdinglop:hover {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+
+
+.allrightresersed {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 24px */
+    color: #000000;
+}
+
+.mrolufisayoyouwillmakeit {
+    display: flex;
+    position: absolute;
+    width: 1120px;
+    height: 650px;
+    margin-left: 10%;
+    background: #FBF7F3;
+}
+
+.workcollectmoneygetrich {
+    margin-left: 3%;
+    background: #736557;
+    border-radius: 40px;
+    height: 40%;
+    margin-top: 10%;
+}
+
+.ijustkeepcallingclass {
+    /* position: absolute; */
+    width: 35%;
+    height: 200px;
+    left: 15%;
+    top: 3%;
+    opacity: 0.2;
+    border-radius: 10px;
+
+}
+
+.dingdingpa {
+    margin-left: 10%;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    margin-top: 2%;
+}
+
+
+.youthinkyouregoingtostressme {
+    height: 75%;
+    margin-top: 15%;
+    margin-bottom: 3%;
+    margin-left: 30%;
+    width: fit-content;
+} 
+
+.wearegodchosen {
+    width: 40%;
+    height: 70%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.thinkaboutthisandfindconfort {
+    width: 30%;
+    height: 30%;
+    margin-left: 10%;
+    margin-top: 1%;
+    margin-bottom: 5%;
+}
+
+.followbody {
+    width: 29px;
+height: 29px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+.olufisayoisrael {
+    width: 218px;
+    height: 38px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 120%;
+/* or 38px */
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+
+.trydeyflex {
+    margin-left: 3%;
+    width: 7%;
+}
+
+.dingdinglop {
+    width: 146px;
+    height: 29px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 120%;
+    margin-left: 10%;
+/* identical to box height, or 29px */
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+
+.makebodytouchbody {
+    border: none;
+}
+
+.welcometoyouracct {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 120%;
+/* identical to box height, or 48px */
+    display: flex;
+    align-items: center;
+    color: #736557;
+    margin-top: 10%;
+}
+
+.tryamifeeasy {
+   background: #FFFFFF;
+   border-radius: 5px;
+   border: none;
+}
+
+.unpocoloco {
+    width: 325px;
+    height: 100px;
+
+background: #FFFFFF;
+/* Hero shadow */
+
+box-shadow: 5px 5px 20px rgba(205, 183, 167, 0.3);
+border-radius: 4px;
+
+}
+
+.dingding {
+    width: 146px;
+    margin-left: 10%;
+    margin-top: 2%;
+/* height: 29px; */
+   font-family: 'Ubuntu';
+   font-style: normal;
+   font-weight: 300;
+   font-size: 18px;
+   line-height: 120%;
+/* identical to box height, or 29px */
+/* display: flex; */
+   align-items: center;
+   color: #000000;
+}
+
+
+.pagefooter {
+    margin-top: 53%;
+    margin-left: -55%;
+}

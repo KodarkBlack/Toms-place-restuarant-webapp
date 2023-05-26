@@ -61,7 +61,7 @@ margin-left: 40%;
 }
 
 .smallsmallnalife {
-    width: 30%;
+    width: 15%;
 }
 
 .happynewyear {
@@ -95,6 +95,8 @@ height: 60px;
 /* Primary/7 */
 
 background: #736557;
+background-image: url(/svg/Add\ Shopping\ Cart.svg);
+background-size: cover;
 border-radius: 30px;
 margin-left: 2%;
 }
@@ -136,24 +138,83 @@ color: #736557;
     display: flex;
 }
 
+.thsiosisisibad {
+    display: flex;
+    margin-left: 15%;
+}
+
 .fuckthislevelmann {
-    width: 85%;
     position: absolute;
     margin-left: -1%;
-width: 1250px;
-height: 188px;
-left: 118px;
-top: 344px;
-
-background: #FFFFFF;
+    width: 1250px;
+    height: 180px;
+    left: 118px;
+    top: 344px;
+    background: #FFFFFF;
 /* Hero shadow */
 
-box-shadow: 5px 5px 20px rgba(205, 183, 167, 0.3);
+    box-shadow: 5px 5px 20px rgba(205, 183, 167, 0.3);
+}
 
+.drough {
+    margin-top: -12%;
+}
+
+.thelinethatislining {
+    width: 100%;
+    margin-top: -16%;
+}
+.leavethesoul {
+    width: 7%;
+    margin-left: 4%;
+    margin-top: -3%;
+}
+
+.leavethesoulss {
+    width: 9%;
+    margin-left: 4%;
+    margin-top: -3%;
+}
+
+.vanillashit {
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+.vanillashitss {
+    margin-left: 5%;
+    margin-top: 3%;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 120%;
+}
+
+.vanillashitsss {
+    margin-left: 5%;
+    margin-top: 3%;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 120%;
+}
+
+.iphonefriend {
+    display: flex;
+    margin-top: -5%;
+}
+
+.close {
+    margin-top: 1%;
+    margin-left: 40%;
+    
 }
 
 .alwayscallingclass {
     display: flex;
+    margin-left: 5%;
 }
 
 .lostflies {
@@ -180,148 +241,74 @@ border-radius: 12px;
 }
 
 .soups {
-    width: 58px;
-height: 22px;
-
-font-family: 'Ubuntu';
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 120%;
-/* identical to box height, or 22px */
-
-display: flex;
-align-items: center;
-text-align: center;
-
-/* Primary/7 */
-
-color: #736557;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 120%;
+    color: #736557;
+    margin-top: 5%;
 
 }
 
 .cantusethesameclas {
-    width: 184px;
-height: 22px;
-
-font-family: 'Ubuntu';
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 120%;
-/* identical to box height, or 22px */
-
-display: flex;
-align-items: center;
-text-align: center;
-
-/* Primary/7 */
-
-color: #736557;
-
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 120%;
+    color: #736557;
+    margin-top: 5%;
+    display: flex;
 }
 
 .sidessnacks {
-    width: 137px;
-height: 22px;
-
-font-family: 'Ubuntu';
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 120%;
-/* identical to box height, or 22px */
-
-display: flex;
-align-items: center;
-text-align: center;
-
-/* Primary/7 */
-
-color: #736557;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 120%;
+    color: #736557;
+    margin-top: 5%;
 }
 
 .fishbeef {
-    width: 102px;
-height: 22px;
-
-font-family: 'Ubuntu';
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 120%;
-/* identical to box height, or 22px */
-
-display: flex;
-align-items: center;
-text-align: center;
-
-/* Primary/7 */
-
-color: #736557;
-
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 120%;
+    color: #736557;
+    margin-top: 5%;
 }
 
 .liqour {
-    width: 77px;
-height: 22px;
-
-font-family: 'Ubuntu';
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 120%;
-/* identical to box height, or 22px */
-
-display: flex;
-align-items: center;
-text-align: center;
-
-/* Primary/7 */
-
-color: #736557;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 120%;
+    color: #736557;
+    margin-top: 5%;
 }
 .rice {
-    width: 39px;
-height: 22px;
-
-font-family: 'Ubuntu';
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 120%;
-/* identical to box height, or 22px */
-
-display: flex;
-align-items: center;
-text-align: center;
-
-/* Primary/7 */
-
-color: #736557;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 120%;
+    color: #736557;
+    margin-top: 5%;
 }
 
 .swallow {
-    width: 88px;
-height: 22px;
-
-font-family: 'Ubuntu';
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 120%;
-/* identical to box height, or 22px */
-
-display: flex;
-align-items: center;
-text-align: center;
-
-/* Primary/7 */
-
-color: #736557;
-margin-left: 8%;
-margin-top: 8%;
-
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 120%;
+    color: #736557;
+    margin-top: 5%;
 }
 
 .drugaddiction {
@@ -347,8 +334,17 @@ color: #736557;
 
 .beinvolve {
     margin-left: 7%;
+    width: fit-content;
+}
 
-    
+.beinvolvebad {
+    margin-left: 7%;
+    width: 25%;
+}
+
+.beinvolvebadass {
+    margin-left: 7%;
+    width: 20%;
 }
 
 .modupeomo {
@@ -360,17 +356,26 @@ color: #736557;
     display: flex;
     margin-top: 25%;
     margin-left: 45%;
+    gap: 2%;
 }
 
 .thissectionthenofftobedgo {
     display: flex;
-    margin-top: 25%;
+    margin-top: 20%;
     margin-left: 38.2%;
+    gap: 2%;
+
 }
 
 .ineedsomepussy {
     margin-top: 1%;
     padding: auto;
+    font-family: 'Ubuntu';
+    color: #736557;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 120%;
 }
 
 .callmewhenyouneedsomesexy {
@@ -400,10 +405,14 @@ color: #736557;
 
 .blackisrael {
     background-color: #736557;
-    border-radius: 100%;
+    background-image: url(/svg/Add\ Shopping\ Cart\ \(1\).svg);
+    background-size: cover;
+    border-radius: 50%;
     margin-left: 35%;
     margin-bottom: 2%;
     /* position: inherit; */
+    width: 60px;
+    height: 60px;
 }
 
 .badhustlers {
@@ -485,10 +494,35 @@ margin-left: 9%;
 }
 
 .casala {
-    margin-top: -5%;
+    margin-top: 3%;
 }
 
 .casalanla {
     margin-top: -20%;
 }
+
+.modal {
+    display: flex; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    margin-left: 80%;
+    margin-top: 10%;
+    width: 20%; /* Full width */
+    height: 35%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    /* background-color: rgba(0,0,0,0.4); */
+    border: none;
+    background: #F8F6F0;
+    box-shadow: 2px 2px 2px #BBC5D3;
+}
+
+
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+  }
 
